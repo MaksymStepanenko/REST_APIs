@@ -3,7 +3,6 @@ const authRouter = require("./routes/authRoutes");
 const userRouter = require("./routes/userRoutes");
 
 const PORT = 3000;
-
 const app = express();
 
 app.use(express.json());
