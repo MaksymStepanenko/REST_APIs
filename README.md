@@ -2,5 +2,5 @@
 Developing REST APIs.
 
 All applications are run by the command:
-- `node app.js` or
+- `node app.js` 
 - `npm start`
